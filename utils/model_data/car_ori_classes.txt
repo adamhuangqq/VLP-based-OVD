@@ -1,0 +1,8 @@
+car
+van
+truck
+suv
+light truck
+tanker
+bus
+pickup

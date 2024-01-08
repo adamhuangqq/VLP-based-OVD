@@ -1,0 +1,1 @@
+该文件夹下存放训练数据，在4090的C:\code\ITC_finetune\car_dataset和C:\code\ITC_finetune\voc_dataset文件夹下
